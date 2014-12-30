@@ -1,0 +1,222 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"resource"
+			],
+			[
+				"in",
+				"input	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Bachelorproef.tex",
+			"settings":
+			{
+				"buffer_size": 8322,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"late",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"latext",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"latex",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nicolasgoethals/Documents/hogent-latex-sjablonen/tin-bachproef/bijlagen.pdf",
+		"/Users/nicolasgoethals/Documents/hogent-latex-sjablonen/tin-bachproef/tin-bachproef.tex",
+		"/Users/nicolasgoethals/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/Default (OSX).sublime-keymap",
+		"/Users/nicolasgoethals/Documents/forum-app/forum-app/project.properties",
+		"/Users/nicolasgoethals/Downloads/adres.json",
+		"/Users/nicolasgoethals/Dropbox/Project III - groep 8/db/Dump_Joetz/p3joetz_inschrijving.sql",
+		"/Users/nicolasgoethals/Dropbox/Project III - groep 8/db/Dump_Joetz/p3joetz_album.sql",
+		"/Users/nicolasgoethals/Dropbox/Project III - groep 8/db/Dump_Joetz/p3joetz_adres.sql",
+		"/Users/nicolasgoethals/Dropbox/School/HOGENT/TI/Workspace/Web Apps/ang-news/app/scripts/services/post.js",
+		"/Users/nicolasgoethals/Dropbox/School/HOGENT/TI/Workspace/Web Apps/ang-news/app/views/main.html",
+		"/Users/nicolasgoethals/Dropbox/School/HOGENT/TI/3.1e semester/Web Apps/FirstProject/app/styles/ninja-slider.css",
+		"/Users/nicolasgoethals/Dropbox/School/HOGENT/TI/3.1e semester/Web Apps/FirstProject/package.json"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"color",
+			"div",
+			"textblock",
+			"img",
+			"I",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Bachelorproef.tex",
+					"settings":
+					{
+						"buffer_size": 8322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8198,
+								8198
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 98.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true
+}
